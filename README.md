@@ -1,3 +1,1 @@
-# Price snapshot
-
-In case the main instance is unreachable put in `${outputs_folder}/vecs/fetched`
+price snapshot from v0.1.9
